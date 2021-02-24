@@ -310,7 +310,7 @@ body{
     right: 30px;
     bottom: 30px;
     padding: 20px;
-    background-color: yellow;
+    background-color: transparent;
 }
 .up-image{
     transform: rotate(270deg);
